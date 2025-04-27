@@ -17,6 +17,7 @@
   "API_CAPMONSTER": "",          // API Key CapMonster (nếu có)
   "API_2CAPTCHA": ""             // API Key 2Captcha (nếu có)
 }
+```
 
 ## 🚀 Các chế độ hỗ trợ
 
@@ -59,6 +60,7 @@
   "API_CAPMONSTER": "",          // CapMonster API Key (if available)
   "API_2CAPTCHA": ""             // 2Captcha API Key (if available)
 }
+```
 
 ## 🚀 Supported Modes
 
