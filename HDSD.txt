@@ -1,0 +1,27 @@
+HDSD TOOL SOLIX
+{
+    "numberThread": 1, // số luồng chạy
+    "waitTime": 10000, // delay sau mỗi lần chạy
+    "checkProxy": true,
+    "refCode": "Dfcg67p7", // mã ref
+    "passwordMail":"Tunzankies123@", // mật khẩu cho chế độ buff ref 
+    "API_CAPMONSTER": "", // api loại capmonster
+    "API_2CAPTCHA": "" // api loại 2 captcha
+}
+
+
+CÁC CHẾ ĐỘ TRONG TOOL 
+[1] Buff Reff                                
+[2] Làm Nhiệm Vụ (Bug điểm)                  
+[3] Get token                                
+[4] Treo Node                                
+[5] Thoát
+
+[1]: Buff ref không giới hạn (nên buff cho cả clone)
+[2]: làm task ( mỗi lần chạy lại làm task thì vẫn cộng dồn điểm, bug điểm task )
+[3]: chế độ lấy lại token thì token hết hạn hoặc đánh mất
+[4]: chế độ treo máy
+
+TOOL đã fake userAgent( thiết bị máy ) tối ưu nhất, anh em xài tool free nhớ để ý vấn đề này ( có thể dễ bị ban )
+
+BẢN QUYỀN THUỘC VỀ @tunankies
